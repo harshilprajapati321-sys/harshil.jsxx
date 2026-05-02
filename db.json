@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "title": "Leptop",
+      "category": "Leptop",
+      "price": 75000,
+      "description": "electronic ",
+      "image": "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?cs=srgb&dl=pexels-veeterzy-303383.jpg&fm=jpg",
+      "id": "WSZeJhSwmcQ"
+    },
+    {
+      "title": "Car",
+      "category": "Car ",
+      "price": 1002000,
+      "description": "Car showroom",
+      "image": "https://cdni.autocarindia.com/ExtraImages/20230424024934_FRONX_LAUNCH.jpg",
+      "id": "xImSqwv0JbU"
+    },
+    {
+      "title": "Bike",
+      "category": "Bike ",
+      "price": 150000,
+      "description": "Bike showroom",
+      "image": "https://wallpaperaccess.com/full/226908.jpg",
+      "id": "bcb8cMFGOFE"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "prajapati",
+      "password": "harshil18",
+      "email": "prajapati@example.com"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
